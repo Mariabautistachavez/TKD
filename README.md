@@ -1,4 +1,4 @@
-# La IA en tiempos de Covid
+## La IA en tiempos de Covid
 Proyecto final de la asignatura Building AI
 Durante la pandemia de COVID-19, la inteligencia artificial (IA) se convirtió en una herramienta clave para enfrentar la crisis sanitaria global. Gracias a su capacidad para procesar grandes volúmenes de datos, la IA fue utilizada para predecir brotes, acelerar diagnósticos, optimizar recursos médicos y desarrollar vacunas más rápidamente.
 Desafíos de la IA en tiempos de COVID-19
