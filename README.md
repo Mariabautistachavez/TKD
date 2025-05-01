@@ -1,7 +1,6 @@
 ## Construyendo un proyecto de curso de IA"
 Proyecto final de la asignatura Building AI
 Durante la pandemia de COVID-19, la inteligencia artificial (IA) se convirtió en una herramienta clave para enfrentar la crisis sanitaria global. Gracias a su capacidad para procesar grandes volúmenes de datos, la IA fue utilizada para predecir brotes, acelerar diagnósticos, optimizar recursos médicos y desarrollar vacunas más rápidamente.
-Desafíos de la IA en tiempos de COVID-19
 1. Calidad y acceso a los datos
 Muchos modelos de IA dependen de grandes cantidades de datos precisos.
 Durante el inicio de la pandemia, los datos eran escasos, incompletos o inconsistentes
